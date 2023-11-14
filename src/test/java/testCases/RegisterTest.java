@@ -51,6 +51,7 @@ public class RegisterTest {
 	@Test(priority=4)
 	public void LoginBtnTest3()
 	{
+		Assert.assertEquals(true, false);
 		System.out.println("THis is my first test case");
 		
 	}

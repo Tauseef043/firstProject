@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-14T17:36:29 PKT" name="Surefire suite" finished-at="2023-11-14T17:36:35 PKT" duration-ms="6107">
+  <suite started-at="2023-11-14T17:39:19 PKT" name="Surefire suite" finished-at="2023-11-14T17:39:25 PKT" duration-ms="5730">
     <groups>
     </groups>
-    <test started-at="2023-11-14T17:36:29 PKT" name="Surefire test" finished-at="2023-11-14T17:36:35 PKT" duration-ms="6107">
+    <test started-at="2023-11-14T17:39:19 PKT" name="Surefire test" finished-at="2023-11-14T17:39:25 PKT" duration-ms="5730">
       <class name="testCases.RegisterTest">
-        <test-method signature="openBRoswser()[pri:1, instance:testCases.RegisterTest@75c072cb]" started-at="2023-11-14T17:36:29 PKT" name="openBRoswser" finished-at="2023-11-14T17:36:35 PKT" duration-ms="6062" status="PASS">
+        <test-method signature="openBRoswser()[pri:1, instance:testCases.RegisterTest@75c072cb]" started-at="2023-11-14T17:39:19 PKT" name="openBRoswser" finished-at="2023-11-14T17:39:25 PKT" duration-ms="5671" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBRoswser -->
-        <test-method signature="LoginBtnTest1()[pri:2, instance:testCases.RegisterTest@75c072cb]" started-at="2023-11-14T17:36:35 PKT" name="LoginBtnTest1" finished-at="2023-11-14T17:36:35 PKT" duration-ms="0" status="PASS">
+        <test-method signature="LoginBtnTest1()[pri:2, instance:testCases.RegisterTest@75c072cb]" started-at="2023-11-14T17:39:25 PKT" name="LoginBtnTest1" finished-at="2023-11-14T17:39:25 PKT" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginBtnTest1 -->
-        <test-method signature="LoginBtnTest2()[pri:3, instance:testCases.RegisterTest@75c072cb]" started-at="2023-11-14T17:36:35 PKT" name="LoginBtnTest2" finished-at="2023-11-14T17:36:35 PKT" duration-ms="0" status="PASS">
+        <test-method signature="LoginBtnTest2()[pri:3, instance:testCases.RegisterTest@75c072cb]" started-at="2023-11-14T17:39:25 PKT" name="LoginBtnTest2" finished-at="2023-11-14T17:39:25 PKT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginBtnTest2 -->
-        <test-method signature="LoginBtnTest3()[pri:4, instance:testCases.RegisterTest@75c072cb]" started-at="2023-11-14T17:36:35 PKT" name="LoginBtnTest3" finished-at="2023-11-14T17:36:35 PKT" duration-ms="1" status="PASS">
+        <test-method signature="LoginBtnTest3()[pri:4, instance:testCases.RegisterTest@75c072cb]" started-at="2023-11-14T17:39:25 PKT" name="LoginBtnTest3" finished-at="2023-11-14T17:39:25 PKT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginBtnTest3 -->
