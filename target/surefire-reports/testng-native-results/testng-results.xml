@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-14T17:22:56 PKT" name="Surefire suite" finished-at="2023-11-14T17:23:02 PKT" duration-ms="5767">
+    <groups>
+    </groups>
+    <test started-at="2023-11-14T17:22:56 PKT" name="Surefire test" finished-at="2023-11-14T17:23:02 PKT" duration-ms="5767">
+      <class name="testCases.RegisterTest">
+        <test-method signature="openBRoswser()[pri:1, instance:testCases.RegisterTest@4c39bec8]" started-at="2023-11-14T17:22:56 PKT" name="openBRoswser" finished-at="2023-11-14T17:23:02 PKT" duration-ms="5726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBRoswser -->
+        <test-method signature="LoginBtnTest1()[pri:2, instance:testCases.RegisterTest@4c39bec8]" started-at="2023-11-14T17:23:02 PKT" name="LoginBtnTest1" finished-at="2023-11-14T17:23:02 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginBtnTest1 -->
+        <test-method signature="LoginBtnTest2()[pri:3, instance:testCases.RegisterTest@4c39bec8]" started-at="2023-11-14T17:23:02 PKT" name="LoginBtnTest2" finished-at="2023-11-14T17:23:02 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginBtnTest2 -->
+        <test-method signature="LoginBtnTest3()[pri:4, instance:testCases.RegisterTest@4c39bec8]" started-at="2023-11-14T17:23:02 PKT" name="LoginBtnTest3" finished-at="2023-11-14T17:23:02 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginBtnTest3 -->
+      </class> <!-- testCases.RegisterTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
